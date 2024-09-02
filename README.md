@@ -52,11 +52,12 @@
 - Try-Catch-Finally 문부터 작성하라
 - null을 반환하지 마라
 - null을 전달하지 마라
-  '''Java
+
+ '''Java
   assert p1 != null : "p1 should not be null";
   assert p2 != null : "p2 should not be null";
 
-  '''
+ '''
 
 깨끗한 코드는 읽기도 좋아야 하지만  안전성도 높아야 한다
 
